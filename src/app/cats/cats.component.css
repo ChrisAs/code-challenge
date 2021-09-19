@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+img {
+    max-width: fit-content;
+}
+
+button {
+    background: #1976d2;
+    color: white;
+    border: none;
+    padding: 35px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
